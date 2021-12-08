@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 990 966" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Abstract-3-Slanted" serif:id="Abstract 3 Slanted" transform="matrix(8.11134,0,0,9.67712,-4836.67,-3873.18)">
+        <g transform="matrix(0.530669,0,0,0.444806,389.257,81.8827)">
+            <path d="M568.437,860.112L586.792,734.38L614,715.725L620,718.125L593.464,737.207C593.464,737.207 593.617,738.643 593.281,737.879L575.319,874.332L584.292,892.873L552.875,892.873L498.563,780.645L491.563,795.109L491.563,795.311L445.512,890.471L445.502,890.449L440.997,899.802L437.252,907.54L437.269,907.54L421.633,940L390.127,940L397.224,925.333L397.127,925.333L498.563,715.725L568.437,860.112Z" style="fill:rgb(37,37,37);"/>
+        </g>
+        <g transform="matrix(0.530669,0,0,0.444806,389.257,81.8827)">
+            <path d="M600,939.973L599.987,939.973L568.408,940L498.563,795.311L452.512,890.471L452.502,890.449L447.997,899.802L444.252,907.54L517.355,907.54L533.087,939.973L455.721,940L455.728,939.985L428.635,939.994L428.633,940L397.127,940L498.563,730.391L572.792,883.778L592.792,736.78L620,718.125L600,939.973Z" style="fill:rgb(152,30,30);"/>
+        </g>
+    </g>
+</svg>
